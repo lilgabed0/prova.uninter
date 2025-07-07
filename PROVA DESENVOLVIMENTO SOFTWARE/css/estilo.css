@@ -1,0 +1,51 @@
+body{
+    background-color: #FFFFF0;
+}
+
+h1{
+    color: darkgray;
+    text-align: center;
+
+}
+
+ p{
+    font-size: 18px;
+    text-align: justify;
+    }
+
+    li{
+        margin-bottom: 5px;
+    }
+    
+    .imagemhobby{
+        width: 350px;
+        height: 350px;
+        border-radius: 10px;
+    }
+
+    td {
+    text-align: center;       
+    vertical-align: middle;   
+}
+
+    .imagemjapao {
+        width: 215px;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .imagemchina{
+        width: 200px;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .imagemcolombia {
+        width: 180px;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    a:hover {
+  color: #E63946;
+}
